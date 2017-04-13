@@ -1,6 +1,12 @@
 # GeenEenTwee
 
-The GeenEenTwee keeps a mobile phone from turning on. I noticed that my phone turns on and calls the emergency number when I put it turned off in my pocket. Removing the battery is not an option: I don't want to lose it or damage it.
+[![Build Status](https://travis-ci.org/richelbilderbeek/GeenEenTwee.svg?branch=master)](https://travis-ci.org/richelbilderbeek/GeenEenTwee)
+
+The GeenEenTwee is [one of my 'machines'](https://github.com/richelbilderbeek/Machines) 
+that prevents a mobile phone from turning on. 
+
+I noticed that my phone turns on and calls the emergency number when I put it turned off in my pocket. 
+Removing the battery is not an option: I don't want to lose it or damage it.
 
 The name 'GeenEenTwee' is a pun on the Dutch emergency number 112, which is spelled out as 'Een een twee'. An equivalent English name would be 'NighOneOne'.
 
