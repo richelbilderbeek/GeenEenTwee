@@ -1,7 +1,5 @@
 # GeenEenTwee
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/GeenEenTwee.svg?branch=master)](https://travis-ci.org/richelbilderbeek/GeenEenTwee)
-
 The GeenEenTwee is [one of my 'machines'](https://github.com/richelbilderbeek/Machines) 
 that prevents a mobile phone from turning on. 
 
