@@ -32,4 +32,3 @@ Put the battery back in.
 Open a phone and find where the battery is located. Put the GeenEenTwee above the battery.
 
 ![Phone](PhoneWithGeenEenTweeStored.jpg)
-
